@@ -1,0 +1,66 @@
+[Project]
+Project=ZCW-ICE
+[File Count]
+Count=21
+[Project Files]
+File0=ADC.inc
+File1=ADC1.inc
+File2=ADC_PWMWork.inc
+File3=Battery.inc
+File4=Battery_Filter.inc
+File5=Battery_Filter1.inc
+File6=Battery_LED.inc
+File7=Battery_Smooth.inc
+File8=Charge_LED.inc
+File9=Gear_LED.inc
+File10=M8P634.INC
+File11=M8P634_TOUCH_M0_LIB_CFG.INC
+File12=M8P634_TOUCH_M0_LIB_DATA.INC
+File13=M8P634_TOUCH_M0_LIB.INC
+File14=M8P634_TOUCH_M0_LIB_CFG.ASM
+File15=M8P634_Touch_M0_Lib_V208.A
+File16=M8P634_TOUCH_M0_UARTDEBUG_LIB_INIT.ASM
+File17=M8P634_TOUCH_M0_UARTDEBUG_LIB_INIT.INC
+File18=MAIN.ASM
+File19=PWM_Set.inc
+File20=PWM_Work.inc
+[Settings]
+Device=M8P634
+ConfigBitValue0=192
+ConfigBitValue1=136
+ConfigBitValue2=255
+ConfigBitValue3=10
+ConfigBitValue4=255
+ConfigBitValue5=215
+ConfigBitValue6=66
+Output=.
+PostBuild=0
+PostBuildCommand=
+[Files]
+OpenFileCounts=14
+File0=ADC_PWMWork.inc|1 5 1541 24 525
+File1=MAIN.ASM|1 5 1541 24 525
+File2=Gear_LED.inc|1 5 1541 24 525
+File3=Battery_LED.inc|1 5 1541 24 525
+File4=Charge_LED.inc|1 5 1541 24 525
+File5=PWM_Work.inc|1 5 1541 24 525
+File6=ADC1.inc|1 5 1541 24 525
+File7=Battery.inc|1 5 1541 24 525
+File8=PWM_Set.inc|1 5 1541 24 525
+File9=M8P634_TOUCH_M0_LIB_CFG.INC|1 5 1541 24 525
+File10=M8P634_TOUCH_M0_LIB.INC|1 5 1541 24 525
+File11=Battery_Filter.inc|1 5 1541 24 525
+File12=Battery_Filter1.inc|1 5 1541 24 525
+File13=ADC.inc|1 5 1541 24 525
+
+[Break]
+Count=0
+[Watch0]
+Count=1
+Watch0=R_Time_Flag 0
+[Watch1]
+Count=0
+[Watch2]
+Count=0
+[Filter Index]
+Index=1
